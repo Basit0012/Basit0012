@@ -36,10 +36,10 @@ I build things that work and things that feel alive.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
-[![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basitworks144@gmail.com)
-[![X](https://img.shields.io/badge/X_(TWITTER)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/basitxek)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Basit0012/Basit0012)
+<a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:basitworks144@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://x.com/basitxek" target="_blank"><img src="https://img.shields.io/badge/X_(TWITTER)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://github.com/Basit0012/Basit0012" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 
 </div>
 
