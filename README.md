@@ -29,17 +29,6 @@ I build things that work and things that feel alive.
 
 ---
 
-## 🔨 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**Delvo**](https://github.com/Basit0012/Delvo) | AI-powered research assistant | Python · LangChain · React |
-| [**Contexa OS**](https://github.com/Basit0012/Contexa-OS) | macOS-style web OS recreation | React · Node.js · CSS |
-| [**The Endless Hallway**](https://github.com/Basit0012/The-Endless-Hallway) | Psychological horror Unity game | Unity · C# · Blender |
-| [**Magma Ridge**](https://github.com/Basit0012/Magma-Ridge) | 3D off-road driving simulator | Unity · C# · Blender |
-
----
-
 ## 🛠 Tech Stack
 
 **AI & Backend**
@@ -73,10 +62,14 @@ I build things that work and things that feel alive.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Basit0012&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Basit0012&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basit0012&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=Basit0012&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=ffffff" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basit0012&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" />
 
 </div>
