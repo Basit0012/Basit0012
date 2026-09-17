@@ -11,7 +11,7 @@
 <br>
 
 Full stack & AI engineer who started in game worlds and never stopped shipping.<br>
-From psychological horror in Unity to AI research assistants with LangChain —<br>
+From psychological horror in Unity to AI research assistants with LangChain.<br>
 I build things that work and things that feel alive.
 
 <br>
