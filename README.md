@@ -58,18 +58,3 @@ I build things that work and things that feel alive.
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Basit0012&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=Basit0012&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=ffffff" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basit0012&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" />
-
-</div>
